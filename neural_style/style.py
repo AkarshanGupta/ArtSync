@@ -67,4 +67,3 @@ def load_model(model_path):
     style_model.eval()
 
     return style_model
-
