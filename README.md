@@ -1,4 +1,4 @@
-![Screenshot 2024-01-03 231739](https://github.com/AkarshanGupta/ArtSync/assets/115368981/f1540b8d-d732-4d73-b203-3f7ab5aeb001)# Introduction
+# Introduction
 Unlock the power of artistic transformation with Artify, your go-to platform for Neural Style Transfer.
 Immerse yourself in the world of digital art as you seamlessly blend the style of your favorite artists with your own photos. 
 Whether it's the vibrant strokes of Van Gogh, the mosaic patterns reminiscent of ancient civilizations, or
