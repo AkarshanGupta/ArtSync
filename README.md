@@ -20,4 +20,10 @@ The minimal tech stack includes Python, Streamlit, PyTorch providing a robust fo
 ![Screenshot 2024-01-03 231837](https://github.com/AkarshanGupta/ArtSync/assets/115368981/66d546f7-50ed-4cee-a49c-4058ca6df213)
 
 # Thoughts 
-* 
+* This a image styler where one input the image/picture and select the style by selecting the reference photo and style it.
+  After clicking the stylize button we get the desired **styled** image. It have download button also which download the stylized image.
+* The image also get saved in the **output-image** after hitting the stylize button , one can change this code by editting the code the style.py 
+  and main.py, Intially the main.py conatins the frontend part how the website structure will look like you can edit the code and add a option where you can upload the image.
+* While making of this project one can understand how the pytorch library is being used and how the training and eval part is done.
+
+
