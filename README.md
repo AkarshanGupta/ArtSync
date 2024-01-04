@@ -25,5 +25,13 @@ The minimal tech stack includes Python, Streamlit, PyTorch providing a robust fo
 * The image also get saved in the **output-image** after hitting the stylize button , one can change this code by editting the code the style.py 
   and main.py, Intially the main.py conatins the frontend part how the website structure will look like you can edit the code and add a option where you can upload the image.
 * While making of this project one can understand how the pytorch library is being used and how the training and eval part is done.
+* To run this project you have to download the folder and run it in pycharm and open the terminal and run these commnads in sequential order
+  **1.pip install streamlit**
+  **2.pip install torch torchvision**
+* Download the pre trained model
+  **3.python download_saved_models.py**
+* To run it enter these commnads after you have executed abovve three and it will generate the host links for the website.
+  **4.cd neural_style**
+  **5.streamlit run main.py**
 
 
